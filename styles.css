@@ -16,7 +16,7 @@ body {
 }
 
 .profile-picture img {
-    width: 0px;
+    width: 150px;
     height: 150px;
     border-radius: 50%;
     border: 5px black;
